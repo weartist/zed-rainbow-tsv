@@ -1,0 +1,11 @@
+id = "rainbow-tsv"
+name = "Rainbow TSV"
+version = "0.0.1"
+schema_version = 1
+authors = ["Hans <weartistt@gmail.com>"]
+description = "Highlight TSV with different rainbow colors to make them more readable"
+repository = "https://github.com/weartist/zed-rainbow-tsv"
+
+[grammars.tsv]
+repository = "https://github.com/weartist/rainbow-tsv-tree-sitter"
+commit = "6c3f990139a5e19e6203ae8aabb0713b6bc645b6"
