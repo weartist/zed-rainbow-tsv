@@ -8,4 +8,4 @@ repository = "https://github.com/weartist/zed-rainbow-tsv"
 
 [grammars.tsv]
 repository = "https://github.com/weartist/rainbow-tsv-tree-sitter"
-commit = "6c3f990139a5e19e6203ae8aabb0713b6bc645b6"
+commit = "c212193d2b216b07a30591be54bf98bb4d48f262"

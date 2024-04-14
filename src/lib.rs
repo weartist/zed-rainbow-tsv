@@ -1,8 +1,8 @@
 use zed_extension_api::{self as zed, Result};
 
-struct RainbowCSV;
+struct RainbowTSV;
 
-impl zed::Extension for RainbowCSV {
+impl zed::Extension for RainbowTSV {
     fn new() -> Self {
         Self {}
     }
@@ -16,4 +16,4 @@ impl zed::Extension for RainbowCSV {
     }
 }
 
-zed::register_extension!(RainbowCSV);
+zed::register_extension!(RainbowTSV);
